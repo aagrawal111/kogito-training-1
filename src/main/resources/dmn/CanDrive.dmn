@@ -18,7 +18,7 @@
       <annotation name="Annotations" />
       <rule id="_3F69C3AD-8EEB-4D9E-A312-881BE4E99756">
         <inputEntry id="_25AE3871-AACD-4E50-9C39-A6EC1CD4A21E">
-          <text>&gt;16</text>
+          <text>&gt;=16</text>
         </inputEntry>
         <outputEntry id="_D76C5184-E498-43C1-8089-F7A80011F38D">
           <text>&quot;yes&quot;</text>
